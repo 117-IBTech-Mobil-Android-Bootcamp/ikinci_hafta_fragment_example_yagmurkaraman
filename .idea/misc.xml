@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/checkbox_selector.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/circle.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/circular_button_white.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_checked.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_cloud1.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_cloud2.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_cloud_bigger.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_cloud_smaller.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_cross.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_question_background.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_rightarrow.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_splash_art.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_splash_logo.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_splash_people.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_test_screen_art.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/ic_unchecked.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_button.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_button_purple.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_button_white.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_card_background.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_selected_card.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/rounded_white_button_shape.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/selected_card.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/splash_logo.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/splash_people.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/drawable/test_background.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_initial_word_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_main_board_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_main_test.xml" value="0.259375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_question.xml" value="0.1296875" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_splash.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/activity_word_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/fragment_initial_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/fragment_initial_word_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/layout/fragment_test.xml" value="0.14375" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/yagka/AndroidStudioProjects/Homework2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1037037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

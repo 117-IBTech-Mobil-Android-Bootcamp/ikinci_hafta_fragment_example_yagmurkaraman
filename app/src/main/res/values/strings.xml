@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DeckyApp</string>
+    <string name="test_title">Kelime Testi</string>
+    <string name="initial_test_context">Kelime Testi, Sizin dil seviyenizi ölçmek içindir.
+        Test sonunda doğru ve yanlışlarınızı görebileceksiniz!</string>
+    <string name="skip">Atla</string>
+    <string name="start_now">Şimdi Başla</string>
+    <string name="default_progress">3/10</string>
+    <string name="time">sn</string>
+</resources>
